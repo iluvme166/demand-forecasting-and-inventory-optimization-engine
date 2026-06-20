@@ -1,5 +1,4 @@
 # demand-forecasting-and-inventory-optimization-engine
-# Demand Forecasting and Inventory Optimization Engine
 
 ## Overview
 
