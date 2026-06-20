@@ -1,0 +1,21 @@
+# Large datasets
+*.csv
+
+# Virtual environment
+project/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
+*.joblib
+
+# OS files
+.DS_Storecd '/home/user/Desktop/FUNO_JOSEPH/new dataset'
+
+
